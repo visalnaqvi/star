@@ -1,0 +1,27 @@
+.main_container{
+  
+  width: 100vw;
+  background-color: #f8f8f8;
+}
+
+.form_container{
+  width: 30%;
+  background-color: #ffffff;
+  padding: 30px;
+  box-shadow: 5px 10px 50px #00000020;
+  margin: 20px;
+}
+
+
+
+
+
+.button{
+  width: 100%;
+  padding: 10px 0;
+  border: none;
+  background-color: #9b51e0;
+  margin-top: 10px ;
+  color: #fff;
+  font-weight: 700;
+}
